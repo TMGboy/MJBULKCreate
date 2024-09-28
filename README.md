@@ -14,8 +14,11 @@ This guide will walk you through setting up the environment and running the scri
 ### 2. **Installation Instructions**
 
 1. **Tick the box** labeled **“Add Python to PATH”**, and click on **“Customize Installation”**.
+![STEP 1](https://i.ibb.co/sQNsjnx/image.png "STEP 1")
 2. **Unselect** the **“Documentation”** option, and **select all other options**. Then, click **Next**.
+![STEP 2](https://i.ibb.co/W0nG9jf/image.png "STEP 2")
 3. In the **Advanced Options**, **leave everything as is** and click **“Install”**.
+![STEP 3](https://i.ibb.co/TTjXqwq/image.png "STEP 3")
 
 ### 3. **Verify Installation**
 
@@ -81,4 +84,3 @@ py app.py
 Follow the steps above, and you'll be ready to generate image prompts and automate the image creation process using Midjourney.
 
 If you encounter any issues, feel free to reach out for support. Enjoy creating stunning visuals with ease!
-```
